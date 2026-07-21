@@ -15,7 +15,7 @@
         ></div>
 
         <div class="site-container relative py-16 sm:py-20 lg:py-28">
-            <div class="grid items-center gap-16 lg:grid-cols-[0.9fr_1.1fr] lg:gap-12 xl:gap-20">
+            <div class="grid items-center gap-14 lg:grid-cols-[1.05fr_0.95fr] lg:gap-10 xl:gap-16">
 
                 {{-- Hero copy --}}
                 <div class="relative z-10">
@@ -136,7 +136,7 @@
                 </div>
 
                 {{-- Project presentation --}}
-                <div class="relative mx-auto w-full max-w-3xl pb-12 sm:pb-16 lg:mx-0">
+                <div class="relative mx-auto w-full max-w-3xl pb-12 sm:pb-16 lg:mx-0 lg:scale-105">
                     {{-- Decorative wide screenshot --}}
                     <div
                         aria-hidden="true"
@@ -234,7 +234,7 @@
 
     {{-- Credibility strip --}}
     <section class="border-y border-navy/10 bg-white">
-        <div class="site-container py-7 sm:py-8">
+        <div class="site-container py-8 sm:py-10">
             <div class="grid items-center gap-6 lg:grid-cols-[1.2fr_1fr]">
                 <div class="flex items-start gap-4 sm:items-center">
                     <span class="flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl bg-navy text-white">
@@ -265,7 +265,7 @@
                             Built from firsthand experience
                         </p>
 
-                        <p class="mt-1 max-w-2xl text-base font-bold leading-snug text-ink sm:text-lg">
+                        <p class="mt-1 max-w-2xl text-lg font-bold leading-snug text-ink sm:text-xl">
                             Built by a software engineer who also runs a local
                             service business.
                         </p>
@@ -310,7 +310,7 @@
     {{-- Services overview --}}
     <section class="section-space bg-cream">
         <div class="site-container">
-            <div class="grid items-end gap-8 lg:grid-cols-[1fr_auto]">
+            <div class="grid items-end gap-7 lg:grid-cols-[minmax(0,48rem)_auto] lg:justify-between">
                 <div>
                     <p class="eyebrow">
                         What we build
@@ -870,7 +870,7 @@
         <div class="site-container">
             <div class="grid items-center gap-12 lg:grid-cols-[0.9fr_1.1fr] lg:gap-20">
                 {{-- Story panel --}}
-                <div class="dark-panel relative overflow-hidden p-7 sm:p-10">
+                <div class="dark-panel relative order-2 overflow-hidden p-7 sm:p-10 lg:order-1">
                     <div
                         aria-hidden="true"
                         class="absolute -right-20 -top-20 h-64 w-64 rounded-full bg-orange/20 blur-3xl"
@@ -988,7 +988,7 @@
                 </div>
 
                 {{-- Main copy --}}
-                <div>
+                <div class="order-1 lg:order-2">
                     <p class="eyebrow">
                         Why 407 Digital
                     </p>
@@ -1210,8 +1210,8 @@
                         </h3>
 
                         <p class="mt-4 leading-7 text-slate">
-                            We discuss your goals, customers, current challenges,
-                            and what a successful project needs to accomplish.
+                            We discuss your business, customers, challenges, and what
+                            the project needs to accomplish.
                         </p>
                     </article>
                 </li>
@@ -1255,8 +1255,8 @@
                         </h3>
 
                         <p class="mt-4 leading-7 text-slate">
-                            You receive a clear project scope, recommendations,
-                            timeline, and price before development begins.
+                            You receive a clear scope, recommendations, timeline, and
+                            price before work begins.
                         </p>
                     </article>
                 </li>
@@ -1294,8 +1294,8 @@
                         </h3>
 
                         <p class="mt-4 leading-7 text-slate">
-                            We design, write, and develop your project while keeping
-                            you involved at the important review points.
+                            We design and develop the project, with your input at the
+                            important review points.
                         </p>
                     </article>
                 </li>
@@ -1340,8 +1340,8 @@
                         </h3>
 
                         <p class="mt-4 leading-7 text-slate">
-                            After testing and approval, we launch your project and
-                            remain available for support, updates, and improvements.
+                            After testing and approval, we launch and remain available
+                            for support and improvements.
                         </p>
                     </article>
                 </li>
@@ -1380,7 +1380,7 @@
     {{-- Final call to action --}}
     <section class="bg-cream pb-16 sm:pb-20 lg:pb-28">
         <div class="site-container">
-            <div class="relative overflow-hidden rounded-panel bg-orange px-6 py-12 sm:px-10 sm:py-16 lg:px-16">
+            <div class="relative overflow-hidden rounded-panel bg-orange px-6 py-14 shadow-card sm:px-10 sm:py-16 lg:px-16 lg:py-20">
                 {{-- Decorative elements --}}
                 <div
                     aria-hidden="true"
