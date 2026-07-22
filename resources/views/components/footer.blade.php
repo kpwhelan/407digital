@@ -107,7 +107,7 @@
             class="site-container flex flex-col gap-3 py-5 text-xs text-white/40 sm:flex-row sm:items-center sm:justify-between"
         >
             <p>
-                © {{ now()->year }} 407 Digital. All rights reserved.
+                © {{ now()->year }} Project 407. All rights reserved.
             </p>
 
             <a

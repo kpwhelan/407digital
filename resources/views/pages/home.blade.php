@@ -1,6 +1,6 @@
 <x-layout
-    title="Websites and Software for Service Businesses | 407 Digital"
-    description="407 Digital builds lead-generating websites and practical software for contractors and local service businesses."
+    title="Websites and Software for Service Businesses | Project 407"
+    description="Project 407 builds lead-generating websites and practical software for contractors and local service businesses."
 >
     {{-- Hero --}}
     <section class="relative overflow-hidden bg-cream">
@@ -67,7 +67,7 @@
                     </div>
 
                     <ul
-                        aria-label="407 Digital benefits"
+                        aria-label="Project 407 benefits"
                         class="mt-8 grid gap-3 text-sm font-semibold text-slate sm:grid-cols-3 lg:grid-cols-1 xl:grid-cols-3"
                     >
                         <li class="flex items-center gap-2">
@@ -865,7 +865,7 @@
         </div>
     </section>
 
-    {{-- Why 407 Digital --}}
+    {{-- Why Project 407 --}}
     <section class="section-space bg-cream">
         <div class="site-container">
             <div class="grid items-center gap-12 lg:grid-cols-[0.9fr_1.1fr] lg:gap-20">
@@ -990,7 +990,7 @@
                 {{-- Main copy --}}
                 <div class="order-1 lg:order-2">
                     <p class="eyebrow">
-                        Why 407 Digital
+                        Why Project 407
                     </p>
 
                     <h2 class="section-title mt-5 max-w-3xl">
@@ -1123,7 +1123,7 @@
                             href="{{ route('about') }}"
                             class="button-secondary justify-center"
                         >
-                            More About 407 Digital
+                            More About Project 407
 
                             <svg
                                 aria-hidden="true"

@@ -1,5 +1,5 @@
 @props([
-    'title' => '407 Digital',
+    'title' => 'Project 407',
     'description' => 'Websites and practical software for contractors and local service businesses.',
 ])
 

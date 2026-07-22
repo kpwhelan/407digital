@@ -11,14 +11,14 @@
         <a
             href="{{ route('home') }}"
             class="flex shrink-0 items-center gap-2"
-            aria-label="407 Digital home"
+            aria-label="Project 407 home"
         >
             <span class="text-2xl font-extrabold tracking-[-0.05em] text-orange">
-                407
+                PROJECT
             </span>
 
             <span class="text-xl font-extrabold tracking-[-0.04em] text-ink">
-                DIGITAL
+                407
             </span>
         </a>
 

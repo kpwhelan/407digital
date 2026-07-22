@@ -1,5 +1,5 @@
 <x-layout
-    title="Privacy | 407 Digital"
+    title="Privacy | Project 407"
     description="Websites, software, and ongoing technical support for local service businesses."
 >
     <section class="section-space">

@@ -1,6 +1,6 @@
 <x-layout
-    title="Web Design and Software Services | 407 Digital"
-    description="407 Digital builds lead-generating websites, practical custom software, and ongoing digital support for contractors and local service businesses."
+    title="Web Design and Software Services | Project 407"
+    description="Project 407 builds lead-generating websites, practical custom software, and ongoing digital support for contractors and local service businesses."
 >
     {{-- Hero --}}
     <section class="relative overflow-hidden bg-cream">

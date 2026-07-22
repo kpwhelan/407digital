@@ -1,6 +1,6 @@
 <x-layout
-    title="Our Work | 407 Digital"
-    description="Explore website and software projects built by 407 Digital for contractors and local service businesses."
+    title="Our Work | Project 407"
+    description="Explore website and software projects built by Project 407 for contractors and local service businesses."
 >
     {{-- Hero --}}
     <section class="relative overflow-hidden bg-cream">
@@ -327,7 +327,7 @@
                     </h2>
 
                     <p class="mt-2 max-w-3xl leading-7 text-slate">
-                        407 Digital is building a focused portfolio of practical
+                        Project 407 is building a focused portfolio of practical
                         websites and software for local service businesses.
                         Future projects will be added here as they launch.
                     </p>
