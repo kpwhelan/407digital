@@ -154,7 +154,7 @@ new class extends Component
                         wire:model.blur="name"
                         class="form-input"
                         autocomplete="name"
-                        placeholder="Kevin Whelan"
+                        placeholder="John Doe"
                     >
 
                     @error('name')
